@@ -8,11 +8,11 @@ Shawn Allen
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JavaSCript
+**Client:** HTML, CSS, JavaScript
 
 ## Tools Used
 
-Below are are list of tools used, and the precise things they were used for:
+Below are the list of tools used, and the precise things they were used for:
 
 - [Ion Icons](https://ionic.io/ionicons) for hambuger menu bar
 - [Icon8](https://icons8.com/) for animated icons and skills icons
