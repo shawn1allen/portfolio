@@ -219,6 +219,10 @@ nav ul li {
   margin: 10px;
 }
 
+.project-card p {
+  text-align: justify;
+}
+
 /* Contact me */
 .contact {
   margin-top: 2rem;
